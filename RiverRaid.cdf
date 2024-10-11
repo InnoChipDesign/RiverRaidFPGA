@@ -1,10 +1,10 @@
-/* Quartus Prime Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition */
+/* Quartus Prime Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition */
 JedecChain;
 	FileRevision(JESD32A);
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE6E22) Path("E:/RiverRaid/") File("RiverRaid.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE6E22) Path("/home/polinanime/github/RiverRaidFPGA/") File("RiverRaid.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 
